@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{F7ABA4DF-799A-470A-9E50-1CCD164075DA}</ProjectGuid>
+    <ProjectGuid>{0EC64066-491E-48E4-A741-B8DCEEC6E3B8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>LAB_1</RootNamespace>
     <AssemblyName>LAB_1</AssemblyName>

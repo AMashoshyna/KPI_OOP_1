@@ -8,5 +8,11 @@ namespace LAB_3
         {
             Console.WriteLine("Hello World!");
         }
+
+        class Student
+        {
+            
+        }
     }
 }
+

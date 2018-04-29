@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KPI_OOP_1
+namespace LAB_1
 {
     class MainClass
     {
@@ -9,4 +9,7 @@ namespace KPI_OOP_1
             Console.WriteLine("Hello World!");
         }
     }
+
 }
+
+

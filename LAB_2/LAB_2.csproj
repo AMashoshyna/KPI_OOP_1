@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{E0A11D46-5462-4C8F-88CD-06A71E699CCB}</ProjectGuid>
+    <ProjectGuid>{F7ABA4DF-799A-470A-9E50-1CCD164075DA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>KPI_OOP_1</RootNamespace>
-    <AssemblyName>KPI_OOP_1</AssemblyName>
+    <RootNamespace>LAB_2</RootNamespace>
+    <AssemblyName>LAB_2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
